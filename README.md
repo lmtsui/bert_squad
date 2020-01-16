@@ -1,7 +1,7 @@
 # bert_squad
 
 followed an example from
-https://github.com/…/tran…/blob/master/examples/run_squad.py
+https://github.com/huggingface/transformers/blob/master/examples/run_squad.py
 to fine tune a bert-base model to do question-answering, after training on SQuAD 1.1 data using free GPU on Colaboratory for 2 hours, final F1 score: 88.0
 
 example input:
